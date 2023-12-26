@@ -1,3 +1,4 @@
+'''
 # webpage_with_screenshots
 /var/www/termon/
 |-- conf
@@ -17,6 +18,7 @@
 |-- test2.html
 |-- test.html
 `-- test.py
+'''
 
 #21:51:01 [root@video termon]# cat /etc/nginx/conf.d/pic.workeat.com.conf
 server {
